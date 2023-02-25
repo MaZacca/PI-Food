@@ -1,0 +1,12 @@
+.btn:hover:not(:focus){
+ background-color: brown;
+}
+
+.current{
+ background-color:peru;
+ border: 1px solid black;
+ border-radius: 5px;
+ color: blanchedalmond;
+ font-weight: bold;
+ padding: 5px;
+}

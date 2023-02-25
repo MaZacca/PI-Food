@@ -1,0 +1,14 @@
+body {
+  background: url("https://images.creativemarket.com/0.1.0/ps/3651125/1820/1213/m1/fpnw/wm1/joyzkm0zflqdpt7akuo0gnnyvsgvancxgh6tzx5mbmydtn5sprpmino8qlgeirny-.jpg?1511857336&s=e9ed09c2e2ac61dc0ffc1422dadb664d");
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
